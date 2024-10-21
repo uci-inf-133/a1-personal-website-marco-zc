@@ -10,40 +10,41 @@ Talking to classmates about class material, assignment requirements, etc. is a g
 
 1. How many assignment points do you believe you completed (replace the *'s with your numbers)?
 
-*/13
-- */1 Readme
-- */2 Basic HTML content
-- */2 Basic CSS styling
-- */2 Advanced feature
-- */3 Responsive layout
-- */1 Passes validation checks
-- */2 Embraces spirit of the assignment
+13/13
+- 1/1 Readme
+- 2/2 Basic HTML content
+- 2/2 Basic CSS styling
+- 2/2 Advanced feature
+- 3/3 Responsive layout
+- 1/1 Passes validation checks
+- 2/2 Embraces spirit of the assignment
 
 2. What (a) basic features, (b) CSS features, and (c) advanced features did you include in your portfolio?
 
 (a) Basic features
 
-
+Headings, pictures, texts
 
 (b) CSS features
 
-
+Changing the color of words
 
 (c) Advanced features
 
-
+linking image to a link, doing hyperlinks
 
 3. How long, in hours, did it take you to complete this assignment?
 
-
+2-3 hours
 
 4. What online resources did you consult when completing this assignment? (list specific URLs)
 
-
+resources from class
 
 5. What classmates or other individuals did you consult as part of this assignment? What did you discuss?
 
-
+n/a
 
 6. Is there anything special we need to know in order to run your code?
 
+just all the files that I uploaded
